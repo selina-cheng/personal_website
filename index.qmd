@@ -1,0 +1,34 @@
+---
+title: "Selina Cheng"
+about:
+  template: broadside
+  id: about-me
+  image: placeholder.jpg
+  links:
+    - icon: github
+      text: GitHub
+      href: https://github.com/selina-cheng
+    - icon: envelope
+      text: Email
+      href: mailto:selinacheng@g.ucla.edu
+---
+
+##
+
+::: {#about-me}
+
+I'm a first year student studying Statistics and Data Science at UCLA. I've taught modified Parliamentary debate, and 1st-8th grade English and math. Currently, I'm focused on performing indoor percussion, pursuing my interest in statistics, and navigating college life.
+
+## Education
+
+University of California, Los Angeles | Los Angeles, CA
+
+B.S. in Statistics and Data Science | September 2023 - June 2027
+
+:::
+
+### Projects
+
+I created a minimalist website for [conversations with friends.](https://selina-cheng.github.io/questions-website/)
+
+I created a clone of one of my favorite games, [Minesweeper.](https://github.com/selina-cheng/minesweeper)
