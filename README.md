@@ -1,4 +1,4 @@
 # Personal Website
 
-About me and my blog.
+My personal website created with Quarto.
  
