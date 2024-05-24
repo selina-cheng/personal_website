@@ -3,7 +3,8 @@ title: "Selina Cheng"
 about:
   template: broadside
   id: about-me
-  image: placeholder.jpg
+  image: coffee_avatar.png
+  image-width: "90"
   links:
     - icon: github
       text: GitHub
@@ -17,7 +18,7 @@ about:
 
 ::: {#about-me}
 
-I'm a first year student studying Statistics and Data Science at UCLA. I've taught modified Parliamentary debate, and 1st-8th grade English and math. Currently, I'm focused on performing indoor percussion, pursuing my interest in statistics, and navigating college life.
+I'm a first year student studying Statistics and Data Science at UCLA. Currently, I'm a Learning Assistant for UCLA's introduction to R programming course! Outside of school, I'm also passionate about music as a percussionist who competes in the national indoor percussion circuit. 
 
 ## Education
 
@@ -31,4 +32,4 @@ B.S. in Statistics and Data Science | September 2023 - June 2027
 
 I created a minimalist website for [conversations with friends.](https://selina-cheng.github.io/questions-website/)
 
-I created a clone of one of my favorite games, [Minesweeper.](https://github.com/selina-cheng/minesweeper)
+I created a Python clone of one of my favorite games, [Minesweeper.](https://github.com/selina-cheng/minesweeper)

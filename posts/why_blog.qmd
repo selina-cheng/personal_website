@@ -1,0 +1,33 @@
+---
+title: "Why Blog?"
+description: "My Reason for Making this Website, My Inspirations, and other Thoughts"
+date: "3/21/24"
+draft: true
+---
+
+- i blogged before .. erm
+    - own website is free from social media judgement and numbers
+    - i get obsessed with metrics and numbers... 
+- the desire to create
+    - art and writing and more
+    - creations don't exist separate from the creator
+        - reflect on my life and stuff
+    - [Lauren Kim's YouTube video](https://www.youtube.com/watch?v=r0RqucKwIcw)
+
+- reading academics' blogs
+    - stalking professor pages and more
+    - one of my instructors constantly quoting andrei kaparthy
+    - oh blogs are a thing, and smart people like to talk a lot
+- dissemnation of info + value in talking to other people
+
+BRIAN SHIN: Teaching Philosophy
+
+Learning requires active participation from the students
+For mathematics, this typically consists of students working out examples and solving exercises. In particular, it is not enough to listen to lectures and read the textbook. I want my students playing with the ideas with their own hands. For example, one semester my students were struggling with induction. Instead of giving them another lecture on it, I had the students work through an activity on induction puzzles as a class. The students got to see the step-by-step mechanics of how induction reduces problems down to the base case. This active engagement with the concept gave students a much better sense for how to tackle these induction problems.
+
+The state of being stuck is an integral part of the learning process
+The time spent coming up with ideas and troubleshooting issues lets the student actually practice the material they're working on. Working through this state also gives students the chance to build up a resilience against frustration. In practice, this principle means resisting the impulse to quickly give an answer every time a student asks a question. Students learn far more by wrestling with their ideas with careful guidance from me, than by hearing the answer and verifying that it works.
+
+Mistakes are inevitable, and that is valuable
+The learning process is messy, and it is unreasonable to expect that everything one tries should be perfect. Unfortunately, I have found that students are often so afraid to make mistakes that they hesitate to explore their ideas. Thus, getting students past this obstruction and helping them get comfortable with making mistakes is a high priority for me. As an example, I run an activity at the start of every semester with my classes where everyone says one thing we've messed up in the past week. This sets up the expectation that mistakes happen to everyone, there's nothing wrong with that, and we can work through it. As the semester unfolds, I make sure to reinforce this expectation by addressing the mistakes I make in class, giving students a model for techniques on how to address mistakes made by ourselves and by others, and continually encouraging the students to practice these techniques.
+

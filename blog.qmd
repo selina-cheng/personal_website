@@ -1,0 +1,8 @@
+---
+title: "blog posts"
+description: "documenting anything I learn or think about :)"
+author: "Selina Cheng"
+listing:
+  contents: posts
+  type: default
+---
