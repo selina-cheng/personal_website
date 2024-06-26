@@ -20,8 +20,6 @@ about:
 
 I'm a first year student studying Statistics and Data Science at UCLA. Currently, I'm a Learning Assistant for UCLA's introduction to R programming course! Outside of school, I'm also passionate about music as a percussionist who competes in the national indoor percussion circuit. 
 
-pee poo
-
 ## Education
 
 University of California, Los Angeles | Los Angeles, CA
