@@ -1,9 +1,11 @@
 ---
 title: "STATS20"
-description: "Academic Material"
+description: "Supplemental Material"
 author: "Selina Cheng"
 listing:
-  contents: posts
+  contents: stats20
   type: default
 ---
+
+
 

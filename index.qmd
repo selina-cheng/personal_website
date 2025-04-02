@@ -30,7 +30,7 @@ B.S. in Statistics and Data Science | Expected June 2026
 
 ### Projects
 
-I developed supplemental academic materials for UCLA's introductory R programming course (STATS20).
+I developed supplemental academic materials for UCLA's introductory R programming course [(STATS20)](stats20.qmd).
 
 I created a minimalist website for [conversations with friends.](https://selina-cheng.github.io/questions-website/)
 
