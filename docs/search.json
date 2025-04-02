@@ -60,7 +60,7 @@
     "href": "stats20/math_notation.html",
     "title": "Translating Math Into R",
     "section": "",
-    "text": "A guide on converting mathematical expressions and concepts into R code, including  explanations, examples, and best practices.\n\nPDF."
+    "text": "A guide on converting mathematical expressions and concepts into R code, including  explanations, examples, and best practices."
   },
   {
     "objectID": "index.html#experience",
@@ -81,6 +81,6 @@
     "href": "stats20/apply_family.html",
     "title": "How to Use the Apply Family of Functions in R",
     "section": "",
-    "text": "A guide for selecting the appropriate apply function in R, explaining when to use apply(), lapply(), sapply(), vapply(), and tapply() based on input data type and desired output format.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    Click here to\n    download the PDF file."
+    "text": "A guide for selecting the appropriate apply function in R, explaining when to use apply(), lapply(), sapply(), vapply(), and tapply() based on input data type and desired output format."
   }
 ]

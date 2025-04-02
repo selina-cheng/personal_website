@@ -6,5 +6,6 @@ image: translatingmath.jpg
 ```{=html}
 <p>A guide on converting mathematical expressions and concepts into R code, including  explanations, examples, and best practices.</p>
 
-<a href="https://selina-cheng.github.io/assets/translating_math_into_R.pdf" target="_blank">PDF.</a>
+<iframe src="https://docs.google.com/gview?url=https://selina-cheng.github.io/assets/translating_math_into_R.pdf&embedded=true" style="width:718px; height:700px;" frameborder="0"></iframe>
+
 ```
