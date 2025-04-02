@@ -1,0 +1,14 @@
+---
+title: "How to Use the Apply Family of Functions in R"
+image: apply_family.jpg
+---
+
+```{=html}
+<p>A guide for selecting the appropriate apply function in R, explaining when to use apply(), lapply(), sapply(), vapply(), and tapply() based on input data type and desired output format.</p>
+
+<object data="Apply_Family_Review.pdf" type="application/pdf" width="100%" height="100%" style="min-height:100vh;">
+    <p>It appears you don't have a PDF plugin for this browser.
+    <a href="stats20/Apply_Family_Review.pdf">Click here to
+    download the PDF file.</a></p>
+</object>
+```

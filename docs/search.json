@@ -4,21 +4,21 @@
     "href": "index.html",
     "title": "Selina Cheng",
     "section": "",
-    "text": "I’m a first year student studying Statistics and Data Science at UCLA. Currently, I’m a Learning Assistant for UCLA’s introduction to R programming course! Outside of school, I’m also passionate about music as a percussionist who competes in the national indoor percussion circuit.\n\n\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S. in Statistics and Data Science | September 2023 - June 2027\n\n\n  \n  \n  \n    \n     GitHub\n  \n  \n    \n     Email\n  \n\n\n\n\n\nI created a minimalist website for conversations with friends.\nI created a Python clone of one of my favorite games, Minesweeper."
+    "text": "I’m a second year student studying Statistics and Data Science at UCLA. Currently, I’m an administrative assistant at a network consulting firm. Outside of school, I’m also passionate about music as a percussionist who competes in the national indoor percussion circuit.\n\n\nAdministrative Assistant | New Vision Investments | January 2025 - Present\nData Journalist | Bruin Sports Analytics | September 2024 - April 2024\nUCLA Statistics Department | STATS20 Learning Intern | April 2024 - December\n\n\n  \n  \n  \n    \n     GitHub\n  \n  \n    \n     Email\n  \n  \n    \n     LinkedIn"
   },
   {
     "objectID": "index.html#section",
     "href": "index.html#section",
     "title": "Selina Cheng",
     "section": "",
-    "text": "I’m a first year student studying Statistics and Data Science at UCLA. Currently, I’m a Learning Assistant for UCLA’s introduction to R programming course! Outside of school, I’m also passionate about music as a percussionist who competes in the national indoor percussion circuit.\n\n\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S. in Statistics and Data Science | September 2023 - June 2027\n\n\n  \n  \n  \n    \n     GitHub\n  \n  \n    \n     Email\n  \n\n\n\n\n\nI created a minimalist website for conversations with friends.\nI created a Python clone of one of my favorite games, Minesweeper."
+    "text": "I’m a second year student studying Statistics and Data Science at UCLA. Currently, I’m an administrative assistant at a network consulting firm. Outside of school, I’m also passionate about music as a percussionist who competes in the national indoor percussion circuit.\n\n\nAdministrative Assistant | New Vision Investments | January 2025 - Present\nData Journalist | Bruin Sports Analytics | September 2024 - April 2024\nUCLA Statistics Department | STATS20 Learning Intern | April 2024 - December\n\n\n  \n  \n  \n    \n     GitHub\n  \n  \n    \n     Email\n  \n  \n    \n     LinkedIn"
   },
   {
     "objectID": "index.html#education",
     "href": "index.html#education",
     "title": "Selina Cheng",
-    "section": "",
-    "text": "University of California, Los Angeles | Los Angeles, CA\nB.S. in Statistics and Data Science | September 2023 - June 2027"
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S. in Statistics and Data Science | Expected June 2026"
   },
   {
     "objectID": "dayton.html",
@@ -47,5 +47,40 @@
     "title": "blog posts",
     "section": "",
     "text": "No matching items"
+  },
+  {
+    "objectID": "stats20.html",
+    "href": "stats20.html",
+    "title": "STATS20",
+    "section": "",
+    "text": "How to Use the Apply Family of Functions in R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nTranslating Math Into R\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "stats20/math_notation.html",
+    "href": "stats20/math_notation.html",
+    "title": "Translating Math Into R",
+    "section": "",
+    "text": "A guide on converting mathematical expressions and concepts into R code, including  explanations, examples, and best practices.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    Click here to\n    download the PDF file."
+  },
+  {
+    "objectID": "index.html#experience",
+    "href": "index.html#experience",
+    "title": "Selina Cheng",
+    "section": "",
+    "text": "Administrative Assistant | New Vision Investments | January 2025 - Present\nData Journalist | Bruin Sports Analytics | September 2024 - April 2024\nUCLA Statistics Department | STATS20 Learning Intern | April 2024 - December"
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Selina Cheng",
+    "section": "Projects",
+    "text": "Projects\nI developed supplemental academic materials for UCLA’s introductory R programming course (STATS20).\nI created a minimalist website for conversations with friends.\nI created a Python clone of one of my favorite games, Minesweeper."
+  },
+  {
+    "objectID": "stats20/apply_family.html",
+    "href": "stats20/apply_family.html",
+    "title": "How to Use the Apply Family of Functions in R",
+    "section": "",
+    "text": "A guide for selecting the appropriate apply function in R, explaining when to use apply(), lapply(), sapply(), vapply(), and tapply() based on input data type and desired output format.\n\n\n    It appears you don't have a PDF plugin for this browser.\n    Click here to\n    download the PDF file."
   }
 ]

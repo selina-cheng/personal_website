@@ -3,8 +3,7 @@ title: "Selina Cheng"
 about:
   template: broadside
   id: about-me
-  image: coffee_avatar.png
-  image-width: "20em"
+  image: coffee.JPG
   links:
     - icon: github
       text: GitHub
@@ -12,23 +11,32 @@ about:
     - icon: envelope
       text: Email
       href: mailto:selinacheng@g.ucla.edu
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/selina-cheng-ucla/
 ---
 
-##
+## 
 
 ::: {#about-me}
+I'm a second year student studying Statistics and Data Science at UCLA. Currently, I'm an administrative assistant at a network consulting firm. Outside of school, I'm also passionate about music as a percussionist who competes in the national indoor percussion circuit.
 
-I'm a second year student studying Statistics and Data Science at UCLA. Currently, I'm an administrative assistant at a network consulting firm. In the past, I've worked as a Learning Assistant for UCLA's introduction to R programming course. Outside of school, I'm also passionate about music as a percussionist who competes in the national indoor percussion circuit. 
+## Experience
+
+Administrative Assistant \| New Vision Investments \| January 2025 - Present
+
+Data Journalist \| Bruin Sports Analytics \| September 2024 - April 2024
+
+UCLA Statistics Department \| STATS20 Learning Intern \| April 2024 - December
+:::
 
 ## Education
 
-University of California, Los Angeles | Los Angeles, CA
+University of California, Los Angeles \| Los Angeles, CA
 
-B.S. in Statistics and Data Science | Expected June 2026
+B.S. in Statistics and Data Science \| Expected June 2026
 
-:::
-
-### Projects
+## Projects
 
 I developed supplemental academic materials for UCLA's introductory R programming course [(STATS20)](stats20.qmd).
 

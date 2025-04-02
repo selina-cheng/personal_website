@@ -2,5 +2,12 @@
   {
     "listing": "/blog.html",
     "items": []
+  },
+  {
+    "listing": "/stats20.html",
+    "items": [
+      "/stats20/apply_family.html",
+      "/stats20/math_notation.html"
+    ]
   }
 ]
